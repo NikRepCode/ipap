@@ -4,7 +4,7 @@ import java.util.Arrays;
 
 import static java.lang.Math.abs;
 
-public class Main {
+public class TaskRunner {
     public static void main(String[] args) {
         int[] mas = {11, 77, -12, 55, 18, 39};
         int[] closest = findClosestPair(mas);
