@@ -1,6 +1,6 @@
 package weekthree;
 
-public class Euclid implements ICalculateDistance {
+public class EuclidCalculateDistance implements ICalculateDistance {
 
     @Override
     public String name() {

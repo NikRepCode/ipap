@@ -1,6 +1,6 @@
 package weekthree;
 
-public class Neumann implements ICalculateDistance {
+public class NeumannCalculateDistance implements ICalculateDistance {
 
     @Override
     public String name() {

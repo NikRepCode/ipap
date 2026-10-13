@@ -1,6 +1,6 @@
 package weekthree;
 
-public class Moor implements ICalculateDistance {
+public class MoorCalculateDistance implements ICalculateDistance {
     @Override
     public String name() {
         return "по Муру";
